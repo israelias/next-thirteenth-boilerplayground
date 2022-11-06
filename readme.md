@@ -1,4 +1,12 @@
-# Next.js App Directory Playground
+# Next Thirteenth Boilerplayground 
+
+This is a fork of [Vercel/app-playground](https://github.com/vercel/app-playground) using Yarn 3 default caching on node modules.
+
+Includes `.yarn/sdks` for `tsdk.typescript`, `.prettierPath` and `eslintNodePath` to sync with versions in `devDeps` along with auto integration with `.vscode`  with baseline configs.
+___
+
+
+## From Next.js App Directory Playground
 
 Next.js introduced the `app/` directory (beta). This is the result of the [Layouts RFC](https://nextjs.org/blog/layouts-rfc) previously published for community feedback. This includes support for:
 
